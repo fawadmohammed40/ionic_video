@@ -1,0 +1,61 @@
+[
+{
+   "id":0,
+   "title": "This is my content",
+   "text":  "A simple card content"  
+
+
+},
+{
+    "id":1,
+    "title": "This is my content",
+    "src":"assets/vids/sample.mp4"
+ 
+ },
+ {
+    "id":2,
+    "title": "This is my content",
+    "src":"assets/vids/sample.mp4"
+ 
+ 
+ },
+ {
+    "id":3,
+    "title": "This is my content",
+    "text":  "A simple card content"  
+ 
+ 
+ },
+   
+ {
+    "id":4,
+    "title": "This is my content",
+    "src": "http://devdactic.com/video/preview1.mp4"  
+ 
+ 
+ },
+ {
+    "id":5,
+    "title": "This is my content",
+    "text":  "A simple card content"  
+ 
+ 
+ },
+ {
+    "id":6,
+    "title": "This is my content",
+    "text":  "A simple card content"  
+ 
+ 
+ },
+ {
+    "id":7,
+    "title": "This is my content",
+    "src":  "http://devdactic.com/video/preview1.mp4"  
+ 
+ 
+ }
+]
+  
+  
+ 

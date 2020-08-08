@@ -1,5 +1,8 @@
 {
   "name": "ravenstd",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "webDir":"www"
+  },
   "type": "angular"
 }
